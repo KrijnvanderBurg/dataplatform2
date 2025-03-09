@@ -8,6 +8,11 @@
 	url = https://github.com/KrijnvanderBurg/.azuredevops.git
     branch = main
 
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = https://github.com/KrijnvanderBurg/.devcontainer.git
+    branch = main
+
 [submodule "python-repo"]
 	path = python-repo
 	url = https://github.com/KrijnvanderBurg/python-repo.git
