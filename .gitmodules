@@ -12,8 +12,3 @@
 	path = python-repo
 	url = https://github.com/KrijnvanderBurg/python-repo.git
     branch = main
-
-[submodule "dotfiles"]
-    path = dotfiles
-    url = https://github.com/KrijnvanderBurg/dotfiles.git
-    branch = main
