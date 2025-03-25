@@ -11,9 +11,14 @@
 [submodule ".devcontainer"]
 	path = .devcontainer
 	url = https://github.com/KrijnvanderBurg/.devcontainer.git
-    branch = main
+	branch = main
 
 [submodule "python-repo"]
 	path = python-repo
 	url = https://github.com/KrijnvanderBurg/python-repo.git
+    branch = main
+
+[submodule "dataplatform-tf"]
+	path = dataplatform-tf
+	url = https://github.com/KrijnvanderBurg/dataplatform-tf.git
     branch = main
